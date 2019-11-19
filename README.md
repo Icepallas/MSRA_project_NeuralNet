@@ -7,11 +7,15 @@
 ### Problems
 在对鸢尾花的数据进行处理时遇到了'几个问题'
 
-1. `Solved`数据的过滤,这个鸢尾花数据集有4个,这4个数据会有各自的相关性与权重,如果都用上,将无法实现可视化处理
+   1. `Solved`数据的过滤,这个鸢尾花数据集有4个,这4个数据会有各自的相关性与权重,如果都用上,将无法实现可视化处理
 
-2. `Solved`数据的处理,最主要的就是将Species转换成categories的123
+   2. `Solved`数据的处理,最主要的就是将Species转换成categories的123
 
-3. <font color=#FF0000>`Unsolved`</font>Loss值的下界只有0.85左右,再往下就NAN
+   3. `Unsolved`Loss值的下界只有0.85左右,再往下就NAN
+
+   4. `Unsolved`最终可视化结果时, <font color=#FF0000>第二类</font>和<font color=#00FF00>第二类</font>的点重叠率有点高,可能是数据集的问题,导致分类射线的效果不太好
+
+
 
 
 
