@@ -10,7 +10,7 @@
 
 2. `Solved`数据的处理,最主要的就是将Species转换成categories的123
 
-3. `<font color=#FF0000> Unsolved </font>`Loss值的下界只有0.85左右,再往下就NAN
+3. `<font color=#FF0000>Unsolved</font>`Loss值的下界只有0.85左右,再往下就NAN
 
 
 
