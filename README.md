@@ -21,7 +21,7 @@
  
 ### Visualizion Result
 
-<img src="." />
+<img src="./IrisVisualizationResult.png" />
 
 
 
