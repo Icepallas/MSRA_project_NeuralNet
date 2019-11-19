@@ -13,7 +13,7 @@
 
    3. `Unsolved`Loss值的下界只有0.85左右,再往下就NAN
 
-   4. `Unsolved`最终可视化结果时, <font color=#FF0000>第二类</font>和<font color=#00FF00>第二类</font>的点重叠率有点高,可能是数据集的问题,导致分类射线的效果不太好
+   4. `Unsolved`最终可视化结果时, <font color=#FF0000> 第二类 </font>和<font color=#00FF00> 第三类 </font>的点重叠率有点高,可能是数据集的问题,导致分类射线的效果不太好
 
 
 
